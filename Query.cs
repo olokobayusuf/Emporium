@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ *	Emporium
+ *	Copyright (c) 2014 Yusuf Olokoba
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
