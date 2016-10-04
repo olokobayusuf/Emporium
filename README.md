@@ -12,3 +12,6 @@ Ideally, Emporium should only cache parts of the database with frequent accesses
 
 # Benchmarks
 Dumping a table of colleges in the US, with over 3,300 entries, took 12ms on the standard MySQL implementation. Using Emporium, the dump took anywhere between 0-2ms.
+
+# Debug
+See the Debug.cs class for how Emporium would typically be used by an ASP.NET database server.
